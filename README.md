@@ -1,5 +1,4 @@
 # Ae Dpartment (CA3 – Project)
-Module: (DT8265 / DT265A) OOP2
 
 ### Description:
 A new medical facility in Dublin needs a software solution for their accident and emergency
