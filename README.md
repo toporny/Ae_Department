@@ -1,4 +1,4 @@
-# Ae Dpartment (CA3 – Project)
+# Ae Dpartment (CA3 – Project for DIT [Dublin Institute of Technology])
 
 ### Description:
 A new medical facility in Dublin needs a software solution for their accident and emergency
